@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am new to GIT hub
+I am new to GIT hub...
 <!--
 **BhavaniAlakunta/bhavanialakunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
